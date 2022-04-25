@@ -35,9 +35,11 @@ hidden: false
 #     btn_label: "Learn more"      
 ---
 
-## About Me
+### About Me
 Used to working in multinational and multidisciplinary environments, getting involved in all stages of software development processes. Fast and eager learner with a research background, supportive and reliable team player with strong bias towards software quality and customer satisfaction.
+
 ---
+
 ### Experience
 - Senior Software Innovation Engineer@Aizon - Nov 2020 / Present
 - Research Software Engineer@Clevernet - Oct 2018 / Nov 2020
